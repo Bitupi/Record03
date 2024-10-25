@@ -1,0 +1,26 @@
+{
+  "name": "Olga Beck",
+  "age": 49,
+  "address": {
+    "street": "Agawap Circle",
+    "city": "Ubavura",
+    "state": "UT",
+    "zip": "26468"
+  },
+  "contact": {
+    "phone": "(425) 513-4741",
+    "servicePhone": "800658225"
+  },
+  "birthday": "1987-11-21T05:58:48.198Z",
+  "ip": "219.65.160.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu viznir juj hacsuiju seje ri rapehut lu ku hokke ufuzim ipfaoh epa. Oboma kugiij hemjowzig kojir godpalka mosope higaze tuptafap wibcage jajef bo cernib ab ozoko zir jeab vew. Ujurune kesi hif vuzbaru pu nihgougo kera walli kozacnud fe hew gi dewumo. Zataj apu fuchule sibtovca ope gel la zi bacul pufwusret siksuc or to ifezi vi avaune.",
+    "bio": "Ede pous za ha tiwwihho usbe zop poj mamab ile ascaru zeuzadek. Benockij zirkebsel kumfowujo rijwocjev ru ne vik zeh apvimje ikgu pikcujeh duzle kipohiz. Adebo bosapfu dubukam fudego hun mutmulfen ugaote icduj akozu izoki mezfuvguj tu ipuni ra ji nuzoan uhu."
+  },
+  "apiKey": "5af881cf7eb002f78e0c3a9f16a47645bfb7fd88d1783d999521f6961bf339dd",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
