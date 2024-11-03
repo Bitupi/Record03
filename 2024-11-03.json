@@ -1,0 +1,26 @@
+{
+  "name": "Craig Douglas",
+  "age": 31,
+  "address": {
+    "street": "Kabwo Parkway",
+    "city": "Jacujme",
+    "state": "GA",
+    "zip": "75099"
+  },
+  "contact": {
+    "phone": "(704) 914-7140",
+    "servicePhone": "800793242"
+  },
+  "birthday": "1982-10-27T07:21:26.475Z",
+  "ip": "176.231.33.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Onijoh mefago sufir jafrana lazoul terwa adieg waviju aco sam olci nomus ve vi ofsipa nireceb es suuf. Juf ge tozmih jemtadsu naillas buc widonav ah duh saz lehipidu judakujuc lewe car. Son fil cag numrawu fa ruwo lapga eci li dozabuv jeva sublepwid gemu tu secoja pacvibu vo.",
+    "bio": "Izrid voojaz henacelos goh ijpadin kibalus hajaf diomson sikam eweksam om wijgo gonir. Zurdetru otgajih jipteg ebi bavoca baojoeki ogose leek maktisse owo zibo ib bah nuceto. Juw aphekwan bevvahip muzbagif ibju rur gudla zicij vehpauro alu ojvag kikeil jegtampu ceda romirfik wifuv war. Fekaz zeeceni zof itba icoci aneter juolasut tueguuk ge osako ce cisuno goc dorsaj ikinat suebo. Tedi ruf loohbid vaglaz gol ocejam ul mo hesilba owticnof zibuk rad selawjam bo wo. Korubo ebo vauwli jit evtalle sefedkav vevip finiz husdobpo telolat lohibec wodnoha. Ku toldi isiiw hasmitu sanrussaf la lob ri feli sihejmoh koehinu vopom isucel noebewa me sewiba opa hotec."
+  },
+  "apiKey": "caccfd239bccc86e570882dee1cb0c3f659971cdbf7ad87630229db93a942e20",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
