@@ -1,0 +1,26 @@
+{
+  "name": "Leroy Reese",
+  "age": 62,
+  "address": {
+    "street": "Sapnu Parkway",
+    "city": "Dugvikva",
+    "state": "MT",
+    "zip": "46603"
+  },
+  "contact": {
+    "phone": "(345) 506-9000",
+    "servicePhone": "800778419"
+  },
+  "birthday": "1998-11-09T07:25:18.610Z",
+  "ip": "102.193.131.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu gag hat hit dipwa ifviznov hepozek zoetcoc niwu garo gik nasisas oj zizesed pe jojap. Giopupe gaot sa bu mavter libiwewil be zogajvo zo donawsa dah tosnad annogpu lisumit. Limewku badowud ve maklid na odkace cu lezehsaj etuzizo gican vannez bamola zonvudwu dozhug.",
+    "bio": "Cototpa fapubuc dosupgem bubrim loecowuf gebgaiwi hamizet fazmi wupwap vojovjom alapo fofu kunmuw vus jukdom segoci. Lu tot eni si fes nigtuf nevreode zi ritvo nebvaful togfo heg tugu celisep aveuvoviw. Vole biasi sucob ohauw pu ot vevzol lultakma to tu ham co neoj so du. Ho jifzarzo zowamloz deplojzup nu wiamiuge ankus fi kekfejan la du lijnu mafsa."
+  },
+  "apiKey": "5615fc4d7099b425f08ab76719ac63a1783ffe3025b58c8bb64ccb3b1fe1c020",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
