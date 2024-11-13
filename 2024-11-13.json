@@ -1,0 +1,26 @@
+{
+  "name": "Keith Richardson",
+  "age": 22,
+  "address": {
+    "street": "Razo Drive",
+    "city": "Wowkola",
+    "state": "GA",
+    "zip": "52539"
+  },
+  "contact": {
+    "phone": "(636) 247-6049",
+    "servicePhone": "800791479"
+  },
+  "birthday": "1999-06-24T03:46:30.791Z",
+  "ip": "111.156.142.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Zodi si bizrofik ju goivefev deejeiko ivauvhe ta facetce oprusu roju pacniz degubev. Haja baajenoz kamli ku muksar hi luk cenpi bapma piduzgu migamu no zonavfe valuhsus. Cibbugu fiarhu tapneddew fiwe nanevis otpejji kef zo taw bet no pap. Bene dimtorim bus hud cedle sic pak le wa mib nena ijsu edoad nolahguz bupugeev hougwu. Hopu wotpaf kopzurlez ammohfu newuzi juhapgoj anocona he ipeoj zitwes jiimjuf fanihup duz no.",
+    "bio": "Le sepo wu irerokju setavu kenod monmocof sit sagekme caculo cowima madusuve ejiubmej cev. Ul ju afa lo nawgel wepfude ow detis na fa vubvoz pok boju bivuf wah ekifosu kaba ka. Hi nef mifnu reka fercojogo wu ireejo ware gitili idvuf pow puviwpuj. Bamsiv to fikewod halelka kum ucize dojdariv piki afabebo gubeh erawi oju ervab kuoro we ihizad. Wehu gi doko zuv iza pa adozibze sefjowem got mos bospim pewmoma ejgam zoz gejav enevo."
+  },
+  "apiKey": "a8a5e84dc15beb00f78ce1ae464eb2f1a536e0c6d30570f9182dd21fb52adedd",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
