@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Andrews",
+  "age": 27,
+  "address": {
+    "street": "Sipva Avenue",
+    "city": "Galkurac",
+    "state": "ME",
+    "zip": "40212"
+  },
+  "contact": {
+    "phone": "(725) 566-6607",
+    "servicePhone": "800228547"
+  },
+  "birthday": "1981-10-02T12:44:54.796Z",
+  "ip": "34.42.207.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuzcudaf vofkacuj edhedo cu hovguz kupse bon ili usouj zo musrow kuvobwa dohe gasugte. Zucuv uckav eza ku vufusib bi fem alepo rup kukcir ipjawag hah. Socgof hewvi et me cesek cikrah mutizko uji fi zof wum wezca po udego gorihu uli. Cat wino eladof suru nob jeju teb ja upgelu zi renegni lus wocer nem.",
+    "bio": "Gewju muhe hazusud ovi senni holotzo cuj lokaimo an cinbi peen wajhib kalej teb. Ikrosac sohbapec acmisini ra moziuno buposi fu zafzeh re abhu ro dispu hewvephih ef calmi gatza. Lun wavultu ozi sahat pakciuli jilovec ruleggud osadinro fa tufogbuv zutcuw rafko mel zacow va hu. Uj ebuzu tesja zaf kibze er uzamopvi hu batru jejwip erefeza careghuc fe pu cakpo ocune gijaf. Bev rumwabmub lehopis keeci kidosbi ga bubnaile fo napa tiujpu kakmi woj ole mi. Vujub uguob cacoz lakvawa wug takzi new ziw vom rov asdahu not numzufbuc zecnoz."
+  },
+  "apiKey": "d909b54ad9f9bc32c1a48a50a3f06e26ad152cc69bffca9fc7a4f179c39db9ec",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
